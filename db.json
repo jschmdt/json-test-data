@@ -1,5 +1,5 @@
   {"destinations": [{
-    "id": "001",
+    "id": "1",
     "cityName": "Paris, FR",
     "dateStart": "2021-12-21",
     "dateEnd": "2021-12-29",
@@ -7,7 +7,7 @@
     "recommends": "Atelier des Lumières, L'Evolution en voie d'illumination, Black Sesame Latte at Café Paris Dabang, Louvre, Disney Land"
   },
   {
-    "id": "002",
+    "id": "2",
     "cityName": "Rome, IT",
     "dateStart": "2020-01-27",
     "dateEnd": "2020-01-31",
@@ -15,14 +15,14 @@
     "recommends": "Colosseum, Vatican Museums, Maritozzi, Pizza & Pasta, Supplì al Telefono (Stuffed Rice Balls)"
   },
   {
-    "id": "003",
+    "id": "3",
     "cityName": "Kyoto, JP",
     "dateStart": "2016-07-09",
     "dateEnd": "2016-07-16",
     "summary": "From Tokyo we took the high-speed train 'Shinkansen' to Kyoto. What a contrast to the hustle and bustle of busy Tokyo. Lots of nature. And many temples. We spent our time in a traditional ryokan in Uji. Uji is world famous for its matcha specialities (made from Japanese green tea). The temple complexes in nearby Nara were also worth a trip. Hordes of deer roam the temple grounds of Nara. When I was feeding them, a deer stole our city map from my pocket - and of course ate it straight away. All in all, I felt very much at home there: because not only the people, but also the animals seem to be gourmets just like us.",
     "recommends": "Uji - the matcha town, Byōdō-in temple, Nara (Buddhist temples), Supermarket discounts (evening)"
   },
-  { "id": "004",
+  { "id": "4",
     "cityName": "Tokyo, JP",
     "dateStart": "2016-06-24",
     "dateEnd": "2016-07-08",
@@ -30,7 +30,7 @@
     "recommends": "Tokyo Sky Tree, Akihabara (electric town for geeks), Asakusa district, Everything you can eat"
   },
   { 
-    "id": "005",
+    "id": "5",
     "cityName": "Amsterdam, NL",
     "dateStart": "2014-11-04",
     "dateEnd": "2014-11-09",
@@ -38,7 +38,7 @@
     "recommends": "Chill atmosphere in coffeeshops, cruise on the grachten canals, Heineken brewery"
   },
   {
-    "id": "006",
+    "id": "6",
     "cityName": "New York City, US",
     "dateStart": "2008-10-18",
     "dateEnd": "2008-10-28",
@@ -46,7 +46,7 @@
     "recommends": "View from the Empire State Building, Coney Island, MOMA museum, Brooklyn Bridge"
   },
   {
-    "id": "007",
+    "id": "7",
     "cityName": "Dublin, IE",
     "dateStart": "2005-07-06",
     "dateEnd": "2005-07-19",
